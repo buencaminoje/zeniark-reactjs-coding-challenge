@@ -1,0 +1,19 @@
+{
+  "name": "zeniark-reactjs-coding-challenge",
+  "version": "1.0.0",
+  "description": "Your challenge is to create a simple, 10 question, true or false, trivia app in the technology you are familiar with. While the problem you are working on is simple, you should treat this like a real world application. This is a chance to show off your abilities and impress.",
+  "main": "index.js",
+  "scripts": {
+    "start": "start node web-api/. && start npm start --prefix web-app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buencaminoje/zeniark-reactjs-coding-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buencaminoje/zeniark-reactjs-coding-challenge/issues"
+  },
+  "homepage": "https://github.com/buencaminoje/zeniark-reactjs-coding-challenge#readme"
+}

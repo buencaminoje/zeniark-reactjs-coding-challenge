@@ -1,3 +1,9 @@
+# Running Instruction
+Running the command below should start both the react app and the api endpoint.
+
+1. Open a terminal and navigate inside the repo.
+2. Run `npm start` command.
+
 # Zeniark ReactJS Coding Challenge
 
 ## Overview
